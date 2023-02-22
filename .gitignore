@@ -32,3 +32,4 @@ stripe_cart-*.tar
 npm-debug.log
 /assets/node_modules/
 
+*.secret.exs
